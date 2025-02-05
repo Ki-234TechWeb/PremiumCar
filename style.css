@@ -1458,7 +1458,7 @@ display : none;
 
 .wrapper{
 width: 100%;
-height: auto;
+height: 100vh;
 position: absolute;
 top: 0;
 background-color: #f7f9fc;
@@ -1556,7 +1556,7 @@ justify-content: center;
 background-color: rgb(17, 146, 5);
 color: #fff;
 border-radius: 20px;
-font-size: 1.4rem;
+font-size: 1.2rem;
 position: fixed;
 top: 2%;
 gap: 10px;
