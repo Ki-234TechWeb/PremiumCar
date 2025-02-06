@@ -1,3 +1,17 @@
+
+document.querySelectorAll('img').forEach(function(img){
+img.setAttribute('loading','lazy');
+
+});
+
+
+
+
+
+
+
+
+
 function start () {
 
    document.querySelector(".loader-container").style.display = "flex";
